@@ -1,0 +1,141 @@
+html {
+    background-color: white;
+    width: 1000px;
+    padding-right: 3em;
+
+
+}
+html h2{
+    color: #931420;
+}
+/* the styles for the elements */
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 100%;
+    background-color: #fffded;
+    width: 800px;
+    border: 3px solid #931420;
+    margin-right: 100px;
+
+
+
+    /*padding: 0;
+    margin: 0;*/
+
+}
+/* single  element */
+
+
+/* the styles for the section*/
+section{
+    width: 525px;
+    float: right;
+    padding-right: 20px;
+    padding-left: 20px;
+    padding-bottom: 20px;
+
+
+
+}
+section img{
+    float: right;
+    /*margin-top: 20px;*/
+
+}
+section {
+
+
+}
+article h2{
+    color:  #931420;
+}
+article  {
+    line-height: 24px;
+
+
+
+}
+
+
+
+/* the styles for the aside*/
+aside div{
+    width: 215px;
+    float: right;
+    padding: 0;
+    margin: 0;
+    line-height: 15px;
+
+}
+
+aside img{
+    /*padding-bottom: .25em;*/
+}
+
+
+
+
+a:hover {font-style: italic;}
+
+
+
+/* the styles for the header */
+header{
+    padding: 1.5em 2em 0 0 ;
+    background: -webkit-linear-gradient( 30deg, #f6bb73 0%, #f6bb73 30%,
+    white 50%, #f6bb73 80%, #f6bb73 100% );
+    border-bottom: 3px solid #931420;
+}
+
+
+header p{
+    padding: 10em;
+}
+
+
+header h3 {
+    text-shadow: 2px 2px #932420;
+    font-size: 105%;
+    padding-bottom: 30px;
+    margin:0;
+}
+
+header h1 {
+    color: #931420;
+    padding: 0;
+    margin: 0;
+}
+header img {
+    float: left;
+    padding: 0 30px 0;
+
+
+}
+
+
+
+
+/* paragraph section*/
+
+blockquote{
+    font-style: italic;
+    padding-right: 2em;
+    padding-left: 2em;
+
+}
+
+head img {
+    position: absolute;
+    top:30px
+
+
+}
+/* the styles for the footer */
+footer {
+    text-align: center;
+    color: white;
+    background-color: #931420;
+    padding: .5em;
+    clear: right;
+    /*position: absolute;*/
+}
